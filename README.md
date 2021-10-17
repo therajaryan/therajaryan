@@ -1,10 +1,10 @@
-### Hey, I'm Raj Aryan Sharma 👋
+## Hey, I'm Raj Aryan Sharma 👋
 
-## I'm a Computer Science senior at Jaypee Institute of Information Technology.
+### I'm a Computer Science senior at Jaypee Institute of Information Technology.
 
 ### Social:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://raw.githubusercontent.com/yadavgaurav251/yadavgaurav251/main/assets/linkedin.svg" />][linkedin]
 
 
 <br />
@@ -29,16 +29,17 @@
 <br />
 <br />
 
----
+
 
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Raj's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=therajaryan&show_icons=true&hide_border=true" />
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=therajaryan)](https://github.com/therajaryan/github-readme-stats)
+  <!-- <img align="left" alt="Raj's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=therajaryan&show_icons=true&hide_border=true" /> -->
+   
 </details>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=punitj1221)](https://github.com/punitj1221/github-readme-stats)
+[![Punit's GitHub stats](https://github-readme-stats.vercel.app/api?username=punitj1221)](https://github.com/punitj1221/github-readme-stats)
 
 
 
