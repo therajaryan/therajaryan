@@ -34,7 +34,7 @@
    
 </details>
 
-[![Raj's github stats](https://github-readme-stats.vercel.app/api?username=therajaryan&count_private=true&show_icons=true&theme=dark)](https://github.com/therajaryan/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=therajaryan&theme=dark&layout=compact)](https://github.com/therajaryan/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=therajaryan&theme=dark&layout=compact)](https://github.com/therajaryan/github-readme-stats)
 
 
 
