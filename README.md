@@ -1,6 +1,6 @@
 ## Hey, I'm Raj Aryan Sharma 👋
 
-### I'm a Computer Science Graduate from Jaypee Institute of Information Technology.
+### I'm a Computer Science Graduate student at Arizona State University.
 
 ### Social:
 
