@@ -1,6 +1,6 @@
 ## Hey, I'm Raj Aryan Sharma 👋
 
-### I'm a Computer Science Graduate student at Arizona State University.
+### I'm a Computer Science Graduate student at Arizona State University, Tempe.
 #### I am currently looking for Summer Internship / Co-Op opportunities for Software/Data based roles.
 
 ### Social:
