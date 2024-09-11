@@ -1,8 +1,8 @@
 ## Hey, I'm Raj Aryan Sharma 👋
 
 ### I'm a Computer Science Graduate student at Arizona State University, Tempe.
-#### I am passionate about developing impactful software products and am currently looking for Summer (2024) Internship / Co-Op opportunities for Software-based roles. 
-#### I have experience working in Javascript and Typescript based frameworks like React.js, Node.js, Vue.js and Express. I have worked on PostgreSQL and MySQL databases and am skilled in SQL and C++. Furthermore, I have experience working with Docker, Git, Jenkins, AWS S3, AWS EC2, Python and Jira.
+#### I am passionate about developing impactful software products and am currently looking for Full-time / Co-Op opportunities for Software-based roles. 
+#### I have experience working in Javascript and Typescript based frameworks like React.js, Node.js, Vue.js and Express. I have worked on PostgreSQL and MySQL databases and am skilled in SQL and C++. Furthermore, I have experience working with Docker, Git, Jenkins, AWS S3, AWS EC2, Python, Trading Algorithms and Jira.
 
 ### Social:
 
