@@ -7,7 +7,7 @@
 ### Social:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://raw.githubusercontent.com/yadavgaurav251/yadavgaurav251/main/assets/linkedin.svg" />][linkedin]
-
+<br>
 
 ### Languages and Tools:
 <p>
