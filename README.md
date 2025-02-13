@@ -2,7 +2,7 @@
 
 ### I'm a Computer Science Graduate student at Arizona State University - Tempe Campus, graduating in May 2025.
 #### I am passionate about developing impactful software products and am currently looking for Full-time opportunities for Tech-based roles. 
-#### I have experience working in Javascript and Typescript based frameworks like React.js, Node.js, Vue.js and Express. I have worked on PostgreSQL and MySQL databases and am skilled in SQL and C++. Furthermore, I have experience working with Docker, Git, Jenkins, AWS S3, AWS EC2, AWS Lambda, Python, Trading Algorithms and Jira.
+#### I have experience working in Javascript and Typescript based frameworks like React.js, Node.js, Vue.js and Express. I have worked on PostgreSQL and MySQL databases and am skilled in SQL and C++. Furthermore, I have experience working with Docker, Git, Jenkins, AWS S3, AWS EC2, AWS Lambda, Python, Jest/Vitest, Trading Algorithms and Jira.
 
 ### Social:
 
